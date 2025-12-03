@@ -26,10 +26,10 @@ TIME TO NITPICK HEHEHHEE
 Now after realizing an extensive critique of the material at hand lets set some basic goals that we might want to achieve by tinkering with this.
 
 ### Goals for this system:
-[]. Fully updated towards UE5 dismemberment system (Just use Niagara for everything visual VFX related)
-[]. Ground down the system to only make sure things get dismembered and user recieves feedback, no extra stuff like crawling and such that might bloat the project
-[]. Make it model universal, or at the very list implement a Bone structure detector so that we can define how to correctly deattach the bones
-[]. Allow for a more detailed dismemberment with a bit less erraticness. We want to achieve a somewhat realistic system
+1. Fully updated towards UE5 dismemberment system (Just use Niagara for everything visual VFX related)
+2. Ground down the system to only make sure things get dismembered and user recieves feedback, no extra stuff like crawling and such that might bloat the project
+3. Make it model universal, or at the very list implement a Bone structure detector so that we can define how to correctly deattach the bones
+4. Alow for a more detailed dismemberment with a bit less erraticness. We want to achieve a somewhat realistic system
 
 That is all of the goals for now as off the creation of a cool and really dope dismemberment system to be built, lots of work needs to be done however lets do some resource gathering really quickly in order to start gathering info to be able to fix this shiiiiii. Tutorial era is over, now lets start with some good and dirty engeniering work :DDDD.
 
