@@ -6877,3 +6877,16 @@ Sampler Limit: 32
 [2025.12.03-10.20.56:931][768]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
 [2025.12.03-10.20.56:931][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.12.03-10.20.56:978][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.12.03-10.27.04:387][947]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9521.880859
+[2025.12.03-10.27.05:387][950]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-10.27.05:387][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9522.545898, Update Interval: 344.488647
+[2025.12.03-10.33.26:792][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9904.278320
+[2025.12.03-10.33.27:788][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-10.33.27:788][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9904.944336, Update Interval: 355.964233
+[2025.12.03-10.40.15:523][321]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10313.003906
+[2025.12.03-10.40.16:522][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-10.40.16:522][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10313.670898, Update Interval: 300.153809
+[2025.12.03-10.45.49:387][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10646.876953
+[2025.12.03-10.45.50:387][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-10.45.50:387][590]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10647.541992, Update Interval: 333.295074
+[2025.12.03-10.50.19:662][398]LogDerivedDataCache: C:/Users/mateo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
