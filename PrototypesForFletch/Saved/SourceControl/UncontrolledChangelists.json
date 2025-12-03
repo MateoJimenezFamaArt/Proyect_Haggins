@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/Ch32_1001_Diffuse.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/Ch32_1001_Glossiness.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/Ch32_1001_Normal.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/Ch32_1001_Specular.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/Ch32_body.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/Ch32_nonPBR.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/Ch32_nonPBR_Anim.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/Ch32_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/Prototypes/DismembermentSystem/BP_AI_DismemberMan.uasset",
+				"C:/Users/mateo/OneDrive/Documents/VFS/Prototyping/Proyect_Haggins/PrototypesForFletch/Content/FuturisticWarrior/Mesh/SK_FuturisticWarrior.uasset"
+			]
+		}
+	]
+}
