@@ -1,6 +1,6 @@
 # Proyect_Haggins
 
-# Documentation
+# Documentation Proyect ID => ChickenDrumsticks
 First of all let me scream in anger and vent my frustration
 FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCK
 
@@ -41,7 +41,8 @@ That is all of the goals for now as off the creation of a cool and really dope d
 5. [UE5 mini course on Niagara control through Blueprints ->](https://dev.epicgames.com/community/learning/tutorials/vaEw/unreal-engine-blueprint-module-controlling-niagara-particles-part-1) It will allow us to understand how to change the system so it takes Niagara systems instead of Cascade.
 6. STEVEN KEARNY I SUMMON THE WITH ALL YOUR MIGTHY BLUEPRINTS POWERS IN ORDER TO HELP ME UNDERSTAND HOW TF TO MAKE THIS WORK
 7. JEFF PLAMONDON I INVOKE YER ALLMIGTHY 3D POWERS TO HELP ME UNDERSTAND AND DOCUMENT HOW TO MAKE THE BONES AND WEIGHT THINGS WORK
-8. GOD ALMIGHTY GIVE MY BRAIN THE POWER OF THE SPONGE TO ABSORB ALL OF THIS KNOWLEDGE AND SUCCESFULLY OVERCOME THIS DIFICULT TASK FOR IF I AM WITH YOU THERE IS NO WAY ILL LOOSE
+8. GREG WHOSE SECOND NAME I DONT REALLY KNOW BUT I KNOW YOU ARE QUITE THE AMAZING CODER, I ALSO INVOKE YER POWERS TO HELP AN AMBICIOUS MF!!
+9. GOD ALMIGHTY GIVE MY BRAIN THE POWER OF THE SPONGE TO ABSORB ALL OF THIS KNOWLEDGE AND SUCCESFULLY OVERCOME THIS DIFICULT TASK FOR IF I AM WITH YOU THERE IS NO WAY ILL LOOSE
     '''
     ISAIAH 41:10 "FEAR NOT, FOR I AM WITH YOU; BE NOT DISMAYED, FOR I AM YOUR GOD; I WILL STRENGTHEN YOU, I WILL HELP YOU, I WILL UPHOLD YOU WITH MY RIGTHEOUS RIGHT HAND!!!"
     '''
@@ -49,3 +50,6 @@ That is all of the goals for now as off the creation of a cool and really dope d
 
 
 
+# Documentation Proyect ID => RandomMathBullshitGo
+
+Le documentation for le system that le fletcher built based on procedural generation, will add more documentation whenever I get to peep them files
