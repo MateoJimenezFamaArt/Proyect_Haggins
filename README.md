@@ -10,7 +10,7 @@ So without further a do lets get this thing rolling cause its 2:27 AM and I tunn
 
 ## First System Template
 
-The first steps where derived from this video: https://youtu.be/Nt7r2OD8pUQ
+The first steps where derived from this video: [UE4 Dismemberment Tutorial](https://youtu.be/Nt7r2OD8pUQ)
 
 Its good and allows a basic understanding for hwo the system might look once fully fleshed out, however it has flaws. 
 TIME TO NITPICK HEHEHHEE
@@ -33,16 +33,25 @@ Now after realizing an extensive critique of the material at hand lets set some 
 
 That is all of the goals for now as off the creation of a cool and really dope dismemberment system to be built, lots of work needs to be done however lets do some resource gathering really quickly in order to start gathering info to be able to fix this shiiiiii. Tutorial era is over, now lets start with some good and dirty engeniering work :DDDD.
 
+#### Update on Goals (12/03/2025)
+1. System updated to use Niagara instead of cascade in order to make it a bit more updated. By using the cpp'''spawn system at location ''' to make it niagara compatible
+2. Crawling attempt is still happening
+3. Bone detaching is still broken
+4. Dismemberment is still very general however it is less erratic now. (head cant be dismembered yet thoug)
+5. UE4 Model Proved effective for the dismemberment however new issue arrised where after dismemberment of one or two limbs the ragdoll goes crazy
+
+
 ### Maybe Useful Resource
 1. Zombie Lite + Dismemberment system -> Its a free Fab asset you can bring in your projects and we can analyze the way they tacled the issue to hopefully learn from them
 2. [UE5 Documentation on how decals work ->](https://dev.epicgames.com/documentation/en-us/unreal-engine/decal-materials-in-unreal-engine) It may be usefull to understand if we want to switch from decals to other systems to show the blood spurts on the ground or use some other UE5 new and handy tool.
 3. [UE5 Documentation on how niagara works ->](https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-visual-effects-in-niagara-for-unreal-engine) It may proove usefull to understand how the new Niagara system works and how we can use it to replace the old legacy cascade particle emiter
 4. [UE5 Documentation on a general overview for Niagara ->](https://dev.epicgames.com/documentation/en-us/unreal-engine/overview-of-niagara-effects-for-unreal-engine) Niagara is way more robust than Cascade so we better spend some good time understanding how it works
 5. [UE5 mini course on Niagara control through Blueprints ->](https://dev.epicgames.com/community/learning/tutorials/vaEw/unreal-engine-blueprint-module-controlling-niagara-particles-part-1) It will allow us to understand how to change the system so it takes Niagara systems instead of Cascade.
-6. STEVEN KEARNY I SUMMON THE WITH ALL YOUR MIGTHY BLUEPRINTS POWERS IN ORDER TO HELP ME UNDERSTAND HOW TF TO MAKE THIS WORK
-7. JEFF PLAMONDON I INVOKE YER ALLMIGTHY 3D POWERS TO HELP ME UNDERSTAND AND DOCUMENT HOW TO MAKE THE BONES AND WEIGHT THINGS WORK
-8. GREG WHOSE SECOND NAME I DONT REALLY KNOW BUT I KNOW YOU ARE QUITE THE AMAZING CODER, I ALSO INVOKE YER POWERS TO HELP AN AMBICIOUS MF!!
-9. GOD ALMIGHTY GIVE MY BRAIN THE POWER OF THE SPONGE TO ABSORB ALL OF THIS KNOWLEDGE AND SUCCESFULLY OVERCOME THIS DIFICULT TASK FOR IF I AM WITH YOU THERE IS NO WAY ILL LOOSE
+6. [UE5 Tutorial for procedural slicing of meshes ->](https://youtu.be/cJArwFqm3XY) It may be useful in order to understand how to slice a mesh in runtime with preocedural slicing
+7. STEVEN KEARNEY I SUMMON THE WITH ALL YOUR MIGTHY BLUEPRINTS POWERS IN ORDER TO HELP ME UNDERSTAND HOW TF TO MAKE THIS WORK
+8. JEFF PLAMONDON I INVOKE YER ALLMIGTHY 3D POWERS TO HELP ME UNDERSTAND AND DOCUMENT HOW TO MAKE THE BONES AND WEIGHT THINGS WORK
+9. GREG WHOSE SECOND NAME I DONT REALLY KNOW BUT I KNOW YOU ARE QUITE THE AMAZING CODER, I ALSO INVOKE YER POWERS TO HELP AN AMBICIOUS MF!!
+10. GOD ALMIGHTY GIVE MY BRAIN THE POWER OF THE SPONGE TO ABSORB ALL OF THIS KNOWLEDGE AND SUCCESFULLY OVERCOME THIS DIFICULT TASK FOR IF I AM WITH YOU THERE IS NO WAY ILL LOOSE
     '''
     ISAIAH 41:10 "FEAR NOT, FOR I AM WITH YOU; BE NOT DISMAYED, FOR I AM YOUR GOD; I WILL STRENGTHEN YOU, I WILL HELP YOU, I WILL UPHOLD YOU WITH MY RIGTHEOUS RIGHT HAND!!!"
     '''
